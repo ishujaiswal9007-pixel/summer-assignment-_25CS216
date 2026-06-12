@@ -9,3 +9,6 @@ public class DecimalToBinary {
         System.out.println("Binary representation: " + binary);
     }
 }
+
+
+J
